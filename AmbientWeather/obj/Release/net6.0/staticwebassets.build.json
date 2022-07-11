@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5kVA1AeGQKpb6Uj8dAXWPlnwVKydK+YpIFjH+FqT+UY=",
+  "Source": "AmbientWeather",
+  "BasePath": "_content/AmbientWeather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

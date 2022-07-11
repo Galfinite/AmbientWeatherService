@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paltiel.Kelsay\\source\\repos\\AmbientWeather\\AmbientWeather\\AmbientWeather.csproj",
+      "projectUniqueName": "C:\\Users\\Paltiel.Kelsay\\Repos\\AmbientWeatherService\\AmbientWeather\\AmbientWeather.csproj",
       "projectName": "AmbientWeather",
-      "projectPath": "C:\\Users\\Paltiel.Kelsay\\source\\repos\\AmbientWeather\\AmbientWeather\\AmbientWeather.csproj",
+      "projectPath": "C:\\Users\\Paltiel.Kelsay\\Repos\\AmbientWeatherService\\AmbientWeather\\AmbientWeather.csproj",
       "packagesPath": "C:\\Users\\Paltiel.Kelsay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paltiel.Kelsay\\source\\repos\\AmbientWeather\\AmbientWeather\\obj\\",
+      "outputPath": "C:\\Users\\Paltiel.Kelsay\\Repos\\AmbientWeatherService\\AmbientWeather\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paltiel.Kelsay\\AppData\\Roaming\\NuGet\\NuGet.Config",
