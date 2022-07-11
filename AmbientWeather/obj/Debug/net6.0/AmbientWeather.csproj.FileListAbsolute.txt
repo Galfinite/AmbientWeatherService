@@ -5,16 +5,11 @@ C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\AmbientWeather.runtimeconfig.json
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\AmbientWeather.dll
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\AmbientWeather.pdb
-C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.csproj.AssemblyReference.cache
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.AssemblyInfoInputs.cache
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.AssemblyInfo.cs
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.csproj.CoreCompileInputs.cache
-C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\staticwebassets.development.json
@@ -25,3 +20,9 @@ C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.pdb
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\AmbientWeather.genruntimeconfig.cache
 C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\obj\Debug\net6.0\ref\AmbientWeather.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Paltiel.Kelsay\Repos\AmbientWeatherService\AmbientWeather\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

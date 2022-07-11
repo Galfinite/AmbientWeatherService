@@ -17,11 +17,11 @@ namespace AmbientWeather.Controllers
             {
                 Singleton myDb = Singleton.Instance;
 
-                var values = new List<KeyValuePair<string, string>>();
+                var values = new Dictionary<string, string>();
 
                 foreach (string key in Request.Query.Keys)
                 {
-                    values.Add(new KeyValuePair<string, string>(key, Request.Query[key].ToString()));
+                    values.Add(key, Request.Query[key].ToString());
                 }
 
                 myDb.InsertData(values);

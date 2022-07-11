@@ -40,9 +40,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
